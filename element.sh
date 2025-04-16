@@ -23,7 +23,7 @@ fi
 if [[ -z $ELEMENT_INFO ]]; then
   echo "I could not find that element in the database."
   exit 0
-fi
+fi    
 
 # Parse the result
 IFS='|' read -r ATOMIC_NUMBER NAME SYMBOL TYPE ATOMIC_MASS MELTING_POINT BOILING_POINT <<< "$ELEMENT_INFO"
