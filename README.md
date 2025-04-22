@@ -19,7 +19,7 @@ A PostgreSQL database of chemical elements with a Bash interface for element loo
 ## 🚀 Quick Setup
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/periodic-table-db.git
+git clone https://github.com/Rida-Lad/periodic-table-db.git
 cd periodic-table-db
 
 # 2. Import the database
