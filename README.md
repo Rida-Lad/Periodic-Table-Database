@@ -32,3 +32,6 @@ chmod +x element.sh
 ./element.sh
 ```
 
+## 📜 Certification
+Part of freeCodeCamp's Relational Database Course
+
